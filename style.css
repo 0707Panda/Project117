@@ -1,0 +1,20 @@
+body{
+    background-color:powderblue;
+}
+
+#scorespan{
+    font-size: medium;
+    float: left;
+    margin-left: 20px;
+}
+
+#timerspan{
+    font-size: medium;
+    float: right;
+    margin-right: 20px;
+}
+
+#sketchtodrawlabel{
+    color: darkgreen;
+    font-size: large;
+}
